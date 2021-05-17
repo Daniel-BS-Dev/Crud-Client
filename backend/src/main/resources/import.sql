@@ -1,0 +1,17 @@
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Pedro Gabriel Silva', '120.080.121-33', 2000.00, TIMESTAMP WITH TIME ZONE '1997-09-27T00:00:00Z',2); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Gabriel Baltazar Silva', '121.081.121-43', 3000.00, TIMESTAMP WITH TIME ZONE '1995-10-01T00:00:00Z',0);   
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('João Gabriel Silva', '122.180.221-53', 1500.00, TIMESTAMP WITH TIME ZONE '1997-12-08T00:00:00Z',1); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Paulo Bezzerra Silva', '123.380.121-63', 1800.00, TIMESTAMP WITH TIME ZONE '1977-03-25T00:00:00Z',3); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Fernando Alex Ciriaco', '124.080.124-73', 2200.00, TIMESTAMP WITH TIME ZONE '1987-01-18T00:00:00Z',4); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Daniel Cicero Silva', '125.085.126-33', 2800.00, TIMESTAMP WITH TIME ZONE '2002-09-21T00:00:00Z',0); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Paulo Baltazar Silva', '122.070.129-11', 1700.00, TIMESTAMP WITH TIME ZONE '1997-10-27T00:00:00Z',1); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('João Gabriel dos Santos', '128.089.121-23', 2500.00, TIMESTAMP WITH TIME ZONE '1988-11-27T00:00:00Z',3); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Maria Apariceda da Silva', '120.090.124-43', 3200.00, TIMESTAMP WITH TIME ZONE '1990-08-27T00:00:00Z',2); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Carlos Benedito da Silva', '125.080.129-09', 2000.00, TIMESTAMP WITH TIME ZONE '2005-11-18T00:00:00Z',0); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Ana Beatriz dos Santos', '129.081.122-02', 2500.00, TIMESTAMP WITH TIME ZONE '1998-04-27T00:00:00Z',2); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Fernando Gabriel Silva', '122.082.121-11', 3100.00, TIMESTAMP WITH TIME ZONE '1987-02-19T00:00:00Z',4); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Camilo Gabriel Silva', '153.050.121-03', 3800.00, TIMESTAMP WITH TIME ZONE '1992-12-20T00:00:00Z',2); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Patricia Bezerra da Silva', '145.080.124-33', 4800.00, TIMESTAMP WITH TIME ZONE '1997-05-30T00:00:00Z',1); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Josefa Maria Baltazar', '141.080.121-11', 5000.00, TIMESTAMP WITH TIME ZONE '1989-09-05T00:00:00Z',3); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Paola Cicera da Silva', '121.089.128-06', 4200.00, TIMESTAMP WITH TIME ZONE '1998-08-10T00:00:00Z',1); 
+INSERT INTO tb_client (name,cpf,income,birth_date,children) VALUES ('Ana Gabriela Santos', '126.080.129-20', 1800.00, TIMESTAMP WITH TIME ZONE '2000-10-01T00:00:00Z',0); 
