@@ -3,7 +3,7 @@
 
 # Sobre o projeto
 
-CRUD Client é um aplicação back end construida durante a parte 1 do **Bootcamp DevSuperior 2.0**, curso organizado pela [DevSuperior]
+CRUD Client é um aplicação backend construida durante a parte 1 do **Bootcamp DevSuperior 2.0**, curso organizado pela [DevSuperior]
 (https:devsuperior.com "Site da devSuperior").
 
 A aplicação consiste em um CRUD completo de web services REST para acessar um recurso de clientes, contendo as cinco operações básicas aprendidas no capitulo:
